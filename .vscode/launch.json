@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Reto4SpringBootMongoDbApplication<Reto4-SpringBoot-MongoDB>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.Reto4SpringBootMongoDB.Reto4SpringBootMongoDbApplication",
+            "projectName": "Reto4-SpringBoot-MongoDB",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
